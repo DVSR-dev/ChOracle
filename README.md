@@ -65,7 +65,7 @@ pip install disnake python-dotenv APScheduler aiosqlite
 
 ### Starting the Bot
 ```bash
-python main.py
+main.py
 ```
 
 ## Commands
