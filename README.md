@@ -1,7 +1,7 @@
 # ChOracle A Discord Chore Bot
 
 ## Summary
-The Discord Chores Bot is a sophisticated task management system designed to help communities maintain accountability for regular chores and responsibilities. Through automated reminders and peer verification, it creates a structured yet friendly environment for task completion and verification.
+ChOracle is a sophisticated task management system designed to help communities maintain accountability for regular chores and responsibilities. Through automated reminders and peer verification, it creates a structured yet friendly environment for task completion and verification.
 
 ## Core Features
 - **Scheduled Reminders**: Create daily, weekly, or monthly reminders for tasks
