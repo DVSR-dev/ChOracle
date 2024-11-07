@@ -183,5 +183,3 @@ For additional support:
    - Backup chores.db regularly
    - Monitor database size
    - Clean up old entries
-
-Would you like me to expand on any section or add additional information?
